@@ -9,18 +9,18 @@ carlos          91257581
 cesar           987458
 rosemary        789456125
 
-Neste arquivo, o primeiro campo corresponde ao login do usuário e o segundo ao espaço em disco ocupado pelo seu diretório home. A partir deste arquivo, você deve criar um programa que gere um relatório, chamado relatório.txt, no seguinte formato:
+Neste arquivo, o primeiro campo corresponde ao login do usuário e o segundo ao espaço em disco ocupado pelo seu diretório home. A partir deste arquivo, você deve criar um programa que gere um relatório, chamado relatório.txt, no seguinte formato:
 
 ACME Inc.           Uso do espaço em disco pelos usuários
 ------------------------------------------------------------------------
 Nr.  Usuário        Espaço utilizado     % do uso
 
-1    alexandre       434,99 MB            16,85%
-2    anderson       1187,99 MB            46,02%
-3    antonio         117,73 MB             4,56%
-4    carlos           87,03 MB             3,37%
-5    cesar             0,94 MB             0,04%
-6    rosemary        752,88 MB            29,16%
+1.    alexandre       434,99 MB            16,85%
+2.    anderson       1187,99 MB            46,02%
+3.    antonio         117,73 MB             4,56%
+4.    carlos           87,03 MB             3,37%
+5.    cesar             0,94 MB             0,04%
+6.    rosemary        752,88 MB            29,16%
 
 Espaço total ocupado: 2581,57 MB
 Espaço médio ocupado: 430,26 MB
